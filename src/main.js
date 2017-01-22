@@ -13,8 +13,11 @@ const routes = [{
   path: '/',
   component: Home
 }, {
-  path: '/hello',
+  path: '/video',
   component: Hello
+}, {
+  path: '*',
+  redirect: '/home'
 }]
 
 const router = new VueRouter({

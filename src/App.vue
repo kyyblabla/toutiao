@@ -1,44 +1,21 @@
 <template>
 <div>
-  <x-header :left-options="{showBack:false}" title="Home"></x-header>
+  <headers></headers>
   <router-view></router-view>
-  <tabbar>
-    <tabbar-item>
-      <img slot="icon" src="~assets/home.png">
-      <span slot="label">Home</span>
-    </tabbar-item>
-    <tabbar-item>
-      <img slot="icon" src="~assets/play.png">
-      <span slot="label">Vieo</span>
-    </tabbar-item>
-    <tabbar-item>
-      <img slot="icon" src="~assets/like.png">
-      <span slot="label">Like</span>
-    </tabbar-item>
-    <tabbar-item>
-      <img slot="icon" src="~assets/user.png">
-      <span slot="label">My</span>
-    </tabbar-item>
-  </tabbar>
+  <menus></menus>
 </div>
 </template>
 
 <script>
-import {
-  XHeader,
-  Tabbar,
-  TabbarItem
-} from 'vux'
+import Menus from 'components/Menus.vue'
+import Headers from 'components/Headers.vue'
 export default {
   data() {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
+    return {}
   },
   components: {
-    XHeader,
-    Tabbar,
-    TabbarItem
+    Headers,
+    Menus
   }
 }
 </script>
