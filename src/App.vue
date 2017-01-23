@@ -1,51 +1,27 @@
 <template>
 <div>
-  <x-header :left-options="{showBack:false}" title="Home"></x-header>
   <router-view></router-view>
-  <tabbar>
-    <tabbar-item>
-      <img slot="icon" src="~assets/home.png">
-      <span slot="label">Home</span>
-    </tabbar-item>
-    <tabbar-item>
-      <img slot="icon" src="~assets/play.png">
-      <span slot="label">Vieo</span>
-    </tabbar-item>
-    <tabbar-item>
-      <img slot="icon" src="~assets/like.png">
-      <span slot="label">Like</span>
-    </tabbar-item>
-    <tabbar-item>
-      <img slot="icon" src="~assets/user.png">
-      <span slot="label">My</span>
-    </tabbar-item>
-  </tabbar>
+  <tabbar></tabbar>
 </div>
 </template>
 
 <script>
 import {
-  XHeader,
-  Tabbar,
-  TabbarItem
+  XHeader
 } from 'vux'
+import Tabbar from 'components/Tabbar.vue'
 export default {
   data() {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
+    return {}
   },
   components: {
     XHeader,
-    Tabbar,
-    TabbarItem
+    Tabbar
   }
 }
 </script>
 
-<style lang="less">@import '~vux/src/styles/reset.less';
-
-body {
-    background-color: #fbf9fe;
-}
+<style lang="less">
+@import '~assets/less/theme.less';
+@import '~vux/src/styles/reset.less';
 </style>
