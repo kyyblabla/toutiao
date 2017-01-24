@@ -15,50 +15,50 @@
 </template>
 
 <script>
-  /**
-   * type:
-   * text, 纯文字
-   * text_right_image, 左文右图
-   * text_bottom_image, 上文下图
-   * text_images 图片列表
-   *
-   */
-  import {
+/**
+ * type:
+ * text, 纯文字
+ * text_right_image, 左文右图
+ * text_bottom_image, 上文下图
+ * text_images 图片列表
+ *
+ */
+import {
+  Flexbox,
+  FlexboxItem
+} from 'vux'
+export default {
+  props: ['title', 'summary', 'images', 'mediaName',
+    'type', 'tag', 'commentCount', 'publishTime'
+  ],
+  components: {
     Flexbox,
     FlexboxItem
-  } from 'vux'
-  export default {
-    props: ['title', 'summary', 'images', 'mediaName',
-      'type', 'tag', 'commentCount', 'publishTime'
-    ],
-    components: {
-      Flexbox,
-      FlexboxItem
-    }
   }
+}
 </script>
 
 <style lang="less">
-  .article-list-item {
+.article-list-item {
     padding: 1rem 0;
     border-bottom: 1px solid #ccc;
     &:last-child {
-      border-bottom: none;
+        border-bottom: none;
     }
     .images {
-      img {
-        width: 100%;
-      }
+        img {
+            width: 100%;
+        }
     }
     .info {
-      font-size: 0.8rem;
-      span.tag {
         font-size: 0.8rem;
-        padding: 0.1rem;
-        color: red;
-        border: 1px solid red;
-        border-radius: 2px;
-      }
+        span.tag {
+            font-size: 0.8rem;
+            padding: 0.1rem;
+            color: red;
+            border: 1px solid red;
+            border-radius: 2px;
+        }
     }
-  }
+}
 </style>

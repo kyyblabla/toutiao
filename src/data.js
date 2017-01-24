@@ -11,8 +11,7 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/1191000b10597b8b992b"
     }, {
       "url": "http://p.pstatp.com/list/1191000b10597b8b992b"
-    }
-    ],
+    }],
     "uri": "list/1191000b10597b8b992b",
     "height": 128
   }, {
@@ -24,8 +23,7 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/13f0000287837242e7da"
     }, {
       "url": "http://p.pstatp.com/list/13f0000287837242e7da"
-    }
-    ],
+    }],
     "uri": "list/13f0000287837242e7da",
     "height": 128
   }, {
@@ -37,12 +35,10 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/13f000028784d19777f0"
     }, {
       "url": "http://p.pstatp.com/list/13f000028784d19777f0"
-    }
-    ],
+    }],
     "uri": "list/13f000028784d19777f0",
     "height": 128
-  }
-  ],
+  }],
   "datetime": "2017-01-23 21:10",
   "article_type": 1,
   "more_mode": true,
@@ -100,8 +96,7 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/13550018414293fd8e29"
     }, {
       "url": "http://p.pstatp.com/list/13550018414293fd8e29"
-    }
-    ],
+    }],
     "uri": "list/13550018414293fd8e29",
     "height": 239
   }, {
@@ -113,8 +108,7 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/1355001841498293b725"
     }, {
       "url": "http://p.pstatp.com/list/1355001841498293b725"
-    }
-    ],
+    }],
     "uri": "list/1355001841498293b725",
     "height": 274
   }, {
@@ -126,12 +120,10 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/150d0009493f7042f61f"
     }, {
       "url": "http://p.pstatp.com/list/150d0009493f7042f61f"
-    }
-    ],
+    }],
     "uri": "list/150d0009493f7042f61f",
     "height": 214
-  }
-  ],
+  }],
   "datetime": "2017-01-23 21:02",
   "article_type": 0,
   "more_mode": true,
@@ -192,8 +184,7 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/1354001866125354e2c6"
     }, {
       "url": "http://p.pstatp.com/list/1354001866125354e2c6"
-    }
-    ],
+    }],
     "uri": "list/1354001866125354e2c6",
     "height": 290
   }, {
@@ -205,8 +196,7 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/135300185c04b049508b"
     }, {
       "url": "http://p.pstatp.com/list/135300185c04b049508b"
-    }
-    ],
+    }],
     "uri": "list/135300185c04b049508b",
     "height": 576
   }, {
@@ -218,12 +208,10 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/150d000960d5e11e36f5"
     }, {
       "url": "http://p.pstatp.com/list/150d000960d5e11e36f5"
-    }
-    ],
+    }],
     "uri": "list/150d000960d5e11e36f5",
     "height": 336
-  }
-  ],
+  }],
   "datetime": "2017-01-23 20:55",
   "article_type": 0,
   "more_mode": true,
@@ -394,8 +382,7 @@ const articleList = [{
         "url": "http://p4.pstatp.com/video1609/1539000812d406aa966e"
       }, {
         "url": "http://p.pstatp.com/video1609/1539000812d406aa966e"
-      }
-      ],
+      }],
       "uri": "video1609/1539000812d406aa966e",
       "height": 326
     },
@@ -465,8 +452,7 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/15d800090fb7fb37b68b"
     }, {
       "url": "http://p.pstatp.com/list/15d800090fb7fb37b68b"
-    }
-    ],
+    }],
     "uri": "list/15d800090fb7fb37b68b",
     "height": 720
   }, {
@@ -478,8 +464,7 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/15d800090fb842c8ce55"
     }, {
       "url": "http://p.pstatp.com/list/15d800090fb842c8ce55"
-    }
-    ],
+    }],
     "uri": "list/15d800090fb842c8ce55",
     "height": 720
   }, {
@@ -491,12 +476,10 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/15dc00009f6af883012f"
     }, {
       "url": "http://p.pstatp.com/list/15dc00009f6af883012f"
-    }
-    ],
+    }],
     "uri": "list/15dc00009f6af883012f",
     "height": 720
-  }
-  ],
+  }],
   "datetime": "2017-01-23 20:17",
   "article_type": 1,
   "more_mode": true,
@@ -659,8 +642,7 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/13f000016dde52211712"
     }, {
       "url": "http://p.pstatp.com/list/13f000016dde52211712"
-    }
-    ],
+    }],
     "uri": "list/13f000016dde52211712",
     "height": 128
   }, {
@@ -672,8 +654,7 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/13f000016ddf0ecaa2e5"
     }, {
       "url": "http://p.pstatp.com/list/13f000016ddf0ecaa2e5"
-    }
-    ],
+    }],
     "uri": "list/13f000016ddf0ecaa2e5",
     "height": 128
   }, {
@@ -685,12 +666,10 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/f20001181b3b803fab0"
     }, {
       "url": "http://p.pstatp.com/list/f20001181b3b803fab0"
-    }
-    ],
+    }],
     "uri": "list/f20001181b3b803fab0",
     "height": 128
-  }
-  ],
+  }],
   "datetime": "2017-01-23 19:55",
   "article_type": 1,
   "more_mode": true,
@@ -748,8 +727,7 @@ const articleList = [{
       "url": "http://p6.pstatp.com/list/135300184a86153efb57"
     }, {
       "url": "http://p.pstatp.com/list/135300184a86153efb57"
-    }
-    ],
+    }],
     "uri": "list/135300184a86153efb57",
     "height": 262
   }, {
@@ -761,8 +739,7 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/150d00094efb11be568f"
     }, {
       "url": "http://p.pstatp.com/list/150d00094efb11be568f"
-    }
-    ],
+    }],
     "uri": "list/150d00094efb11be568f",
     "height": 313
   }, {
@@ -774,12 +751,10 @@ const articleList = [{
       "url": "http://p4.pstatp.com/list/1354001854c0f66a38d3"
     }, {
       "url": "http://p.pstatp.com/list/1354001854c0f66a38d3"
-    }
-    ],
+    }],
     "uri": "list/1354001854c0f66a38d3",
     "height": 309
-  }
-  ],
+  }],
   "datetime": "2017-01-23 19:47",
   "article_type": 0,
   "more_mode": true,
@@ -1043,7 +1018,6 @@ const articleList = [{
     "user_verified": false
   },
   "group_id": "6378764478062657793"
-}
-]
+}]
 
 exports.articleList = articleList

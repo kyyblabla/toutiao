@@ -11,15 +11,13 @@ const routes = [{
   component: Home,
   showMenu: true,
   icon: require('assets/home.png')
-},
-{
+}, {
   path: '/Video',
   name: '视频',
   component: Video,
   showMenu: true,
   icon: require('assets/play.png')
-},
-{
+}, {
   path: '*',
   redirect: '/home'
 }]
