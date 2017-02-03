@@ -36,21 +36,27 @@
   }
 </script>
 
-<style lang="less">
+<style rel="stylesheet/less" lang="less">
   .category-list {
     background: #f6f6f6;
   }
+
   .category-container {
     width: 100%;
     overflow: scroll;
   }
+
   .category-list {
     height: 2rem;
+
     .item {
       text-align: center;
-      &.avitve {
+
+      &
+      .avitve {
         color: red;
       }
+
     }
   }
 </style>

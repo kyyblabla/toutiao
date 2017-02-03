@@ -26,7 +26,7 @@
   }
 </script>
 
-<style lang="less">
+<style rel="stylesheet/less" lang="less">
   #tabbar {
     width: 100%;
     position: fixed;
